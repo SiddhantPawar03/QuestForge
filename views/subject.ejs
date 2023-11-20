@@ -1,0 +1,26 @@
+<% layout('/layouts/boilerplate') %>
+
+
+    <div class="container mt-3">
+        <div class="row">
+            <div class="col-md-8 offset-md-2  col-xl-6 offset-xl-3">
+                <div class="card shadow">
+                    <img src="https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2022/09/06/istock-468594877-1-1115789-1654516103-1142738-1662467839.jpg?itok=fojj8WY2"
+                        alt="" class="card-img-top" />
+                    <div class="card-body">
+                        <h4 class="card-title">Select Subject</h4>
+                        <form class="needs-validation form" action="/topic" method="get" novalidate>
+                            <div class="mb-3">
+                                <label class="form-label" for="subjectType">Subject Type</label>
+                                <select class="form-control" name="subject" id="subject">
+                                    <option value="Physics">Physics</option>
+                                    <option value="Chemistry">Chemistry</option>
+                                </select>
+                            </div>
+                           
+                            <button class="btn btn-success w-100">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>

@@ -1,0 +1,67 @@
+<!-- paper.ejs -->
+<h1 style="text-align: center;">Question Paper</h1>
+
+<% if (questionArray) { %>
+  <p style="text-align: center;"><strong>Subject: </strong>
+      <%= questionArray[0].subject %>
+    </p>
+    <% if (topicsArray && topicsArray.length > 0) { %>
+      <div style="text-align: center;">
+        <p><strong>Topics:</strong> <%= topicsArray.join(', ') %></p>
+      </div>
+    <% } else { %>
+      <p>No topics available.</p>
+    <% } %>
+     <p style="text-align: center;"><strong>Total Marks: </strong>
+      <%= totalMarks %>
+    </p> 
+    
+
+        <% questionArray.forEach(question=> { %>
+          <div style="display: flex; justify-content: space-between;">
+            <div><strong>Q:</strong>
+              <%= question.question %>
+            </div>
+            <div><strong>Marks:</strong>
+              <%= question.marks %>
+            </div>
+          </div>
+          <hr>
+          <% }); %>
+            <% } else { %>
+              <p>No questions available.</p>
+              <% } %>
+
+
+              <button style="background-color: #28a745; color: #fff; width: 100%; padding: 0.75rem 1rem; border: none; border-radius: 0.25rem;" id="saveData">Save Paper</button>
+
+                <script>
+                  document.getElementById('saveData').addEventListener('click', async () => {
+                    // Ensure questionArray is defined
+                    var questionArray = <%- JSON.stringify(questionArray) %>;
+                    var topicsArray = <%- JSON.stringify(topicsArray) %>;
+                    var difficulty = <%- JSON.stringify(difficulty) %>;
+                    var totalMarks = <%- JSON.stringify(totalMarks) %>;
+                    var paperName = <%- JSON.stringify(paperName) %>;
+                    var userId = <%- JSON.stringify(userId) %>;
+
+                    if (questionArray) {
+                      // POST request to save data
+                      const response = await fetch('/save', {
+                        method: 'POST',
+                        headers: {
+                          'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({ questionArray, topicsArray, difficulty, totalMarks, paperName, userId }),
+                      });
+                      if (response.ok) {
+                        alert('Paper saved successfully!');
+                        window.location.href = '/subject';
+                      } else {
+                        alert('Failed to save data.');
+                      }
+                    } else {
+                      console.error('No data to save.');
+                    }
+                  });
+                </script>

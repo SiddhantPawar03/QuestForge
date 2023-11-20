@@ -1,0 +1,67 @@
+<% layout('/layouts/boilerplate') %>
+
+    <div class="container mt-3">
+        <div class="row">
+            <div class="col-md-8 offset-md-2 col-xl-6 offset-xl-3">
+                <div class="card shadow">
+                    <img src="https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2022/09/06/istock-468594877-1-1115789-1654516103-1142738-1662467839.jpg?itok=fojj8WY2"
+                        alt="" class="card-img-top" />
+                    <div class="card-body">
+                        <h4 class="card-title">Select <%= subject %> Topics</h4>
+                        <form class="needs-validation form" action="/paper" method="get" novalidate>
+                            <input type="hidden" name="subject" value="<%= subject %>">
+                            <div class="mb-3">
+                                <label class="form-label" for="fullName">Enter Paper Name</label>
+                                <input class="form-control" type="text" name="paperName" id="paperName" required
+                                    autofocus />
+                            </div>
+                            <% distinctTopics.forEach(topic=> { %>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="<%= topic %>" name="topics"
+                                        value="<%= topic %>">
+                                    <label class="form-check-label" for="<%= topic %>">
+                                        <%= topic %>
+                                    </label>
+                                </div>
+                                <% }); %>
+                                    <div class="mb-3">
+                                        <label class="form-label" for="totalMarks">Total Marks</label>
+                                        <input class="form-control" type="number" id="totalMarks" name="totalMarks"
+                                            placeholder="100" required max="100">
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label class="form-label" for="easy">Easy</label>
+                                        <input class="form-control" type="number" id="easy" name="easy"
+                                            placeholder="25%" required max="80" oninput="validateTotal()">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label class="form-label" for="medium">Medium</label>
+                                        <input class="form-control" type="number" id="medium" name="medium"
+                                            placeholder="55%" required max="80" oninput="validateTotal()">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label class="form-label" for="hard">Hard</label>
+                                        <input class="form-control" type="number" id="hard" name="hard"
+                                            placeholder="20%" required max="50" oninput="validateTotal()">
+                                    </div>
+                                    <button class="btn btn-success w-100">Submit</button>
+                        </form>
+                        <script>
+                            function validateTotal() {
+                                var easyValue = parseInt(document.getElementById("easy").value) || 0;
+                                var mediumValue = parseInt(document.getElementById("medium").value) || 0;
+                                var hardValue = parseInt(document.getElementById("hard").value) || 0;
+
+                                var total = easyValue + mediumValue + hardValue;
+
+                                if (total > 100) {
+                                    alert("The total cannot exceed 100%. Please adjust the values.");
+                                }
+                            }
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

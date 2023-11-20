@@ -1,0 +1,10 @@
+<h1>Paper List</h1>
+
+<% papers.forEach(paper => { %>
+  <div style="border: 1px solid #ccc; margin-bottom: 10px; padding: 10px;">
+    <h3><%= paper.paperName %></h3>
+    <p><strong>Total Marks:</strong> <%= paper.totalMarks %></p>
+    <p><strong>Subject:</strong> <%= paper.subject %></p>
+    <p><strong>Topics:</strong> <%= paper.topic.join(', ') %></p>
+  </div>
+<% }); %>
