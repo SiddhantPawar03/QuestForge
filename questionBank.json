@@ -1,0 +1,786 @@
+[
+  {
+    "question": "What is the speed of sound in air?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the concept of frequency in wave motion.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define amplitude in the context of waves.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "How are longitudinal waves different from transverse waves?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the phenomenon of interference in wave optics.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Calculate the wavelength of a wave with given frequency and speed.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the Doppler effect and its application in astronomy.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Define the term 'standing wave' in physics.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "How does the refraction of waves occur?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Discuss the properties of electromagnetic waves.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the concept of resonance in wave systems.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Calculate the speed of a wave given its frequency and wavelength.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "What is the relationship between wave speed, frequency, and wavelength?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the principle of superposition in wave mechanics.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Explain the concept of diffraction in wave optics.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "How does the speed of a wave change when it enters a different medium?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the applications of wave interference in daily life.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the term 'phase' in the context of wave motion.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of standing waves on a string.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the role of waves in communication systems.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "What is the potential difference across a resistor?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain Ohm's Law and its significance in electrical circuits.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define electric current and its unit of measurement.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Differentiate between series and parallel circuits.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the concept of electrical power and its calculation.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Calculate the resistance of a resistor using the color code.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the working principle of a capacitor.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Define electric potential energy and its relation to charge.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Discuss the role of resistors in regulating current in a circuit.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of electric circuits and their components.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the applications of electric circuits in everyday life.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Calculate the power consumed by an electrical appliance.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of electric resistance and its factors.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the significance of insulators and conductors in electrical systems.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define electric current density and its role in conductors.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the working principle of an electric generator.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the dangers of electrical shock and safety measures.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Calculate the equivalent resistance in a complex circuit.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Define electromotive force (EMF) and its units.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the role of batteries in electrical devices.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the first law of thermodynamics and explain its significance.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the concept of internal energy in thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define entropy and discuss its role in thermodynamic processes.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Differentiate between heat and temperature in thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the laws of thermodynamics and their applications.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Calculate the work done in an isothermal process.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of heat transfer and its modes.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Define the Carnot cycle and its efficiency.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Discuss the concept of specific heat and its applications.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the difference between reversible and irreversible processes.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the role of thermodynamics in engines and refrigerators.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Calculate the change in internal energy for a given process.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of adiabatic processes and their characteristics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the Maxwell's relations in thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the concept of enthalpy and its relation to internal energy.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the function of a heat exchanger in thermodynamic systems.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the concept of heat engines and their efficiency.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Calculate the efficiency of a refrigerator in a given scenario.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the principle of conservation of energy in thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the concept of phase transitions in thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the term 'critical point' in the context of thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of Gibbs free energy and its applications.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the role of thermodynamics in environmental science.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the concept of reversible heat engines and their efficiency.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Define polymers and explain their significance in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the classification of polymers based on their origin.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Explain the process of polymerization and its types.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Differentiate between addition and condensation polymerization.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the properties of natural polymers with examples.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Explain the concept of copolymers and provide examples.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Define the term 'monomer' and its role in polymerization.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the synthesis and uses of polyethylene.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Explain the structure and properties of PVC (polyvinyl chloride).",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Discuss the role of polymers in everyday materials.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the concept of biodegradable polymers and their importance.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the term 'crosslinking' in the context of polymers.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Discuss the applications of synthetic rubbers in industries.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the concept of thermoplastics and provide examples.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Discuss the environmental impact of non-biodegradable polymers.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Define the term 'polymer blend' and its advantages.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the role of polymers in drug delivery systems.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Explain the properties and uses of polypropylene.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Discuss the concept of conducting polymers and their applications.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the synthesis and properties of nylon.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the term 'polymerization inhibitor' and its role.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Discuss the concept of smart polymers and their applications.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the properties and uses of Teflon (polytetrafluoroethylene).",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Discuss the role of polymers in the field of medicine and surgery.",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Define electrochemistry and discuss its significance in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the difference between oxidation and reduction reactions.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the terms 'anode' and 'cathode' in electrochemical cells.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Discuss the Nernst equation and its applications in electrochemistry.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the working principle of a galvanic cell.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Discuss the role of electrolytes in electrochemical cells.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Define Faraday's laws of electrolysis and their significance.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the concept of standard electrode potential.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Discuss the applications of electrochemistry in industry.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the working principle of a concentration cell.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the factors affecting electrode potential.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the terms 'electrolysis' and 'electroplating'.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of fuel cells and their types.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the role of corrosion in electrochemical processes.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the terms 'half-cell' and 'salt bridge' in electrochemistry.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of overpotential in electrochemical cells.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the applications of batteries in daily life.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the terms 'anion' and 'cation' in the context of electrolysis.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of redox reactions and their role in electrochemistry.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the role of potentiostat in electrochemical measurements.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the term 'ion-selective electrode' and its applications.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of conductometry and its applications in electrochemistry.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Discuss the environmental impact of electrochemical processes.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Define the terms 'Galvanostat' and 'Amperostat' in electrochemistry.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Hard",
+    "marks": 6
+  }
+]
